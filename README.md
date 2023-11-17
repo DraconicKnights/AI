@@ -8,10 +8,10 @@ Creating a new Voice Control bot
 - Basic web search
 - Basic Response Commands
 - Wikipedia Search using Python Wiki libary
-- Bais Log Command
+- Basic Log Command
 
 ## Planned
 
 - Nerual Network desing
-- More search features
+- More search commands
 - log fix
